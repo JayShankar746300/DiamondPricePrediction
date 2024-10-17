@@ -38,17 +38,17 @@ The project is organized as follows:
 ## Getting Started
 To get started with this project, follow these steps:
 1. Clone the repository to your local machine using the following command:
-git clone https://github.com/jayshankar/Diamond-Price-Prediction-Project.git
+* git clone https://github.com/jayshankar/Diamond-Price-Prediction-Project.git
 2. Navigate to the project directory:
-cd Diamond-Price-Prediction-Project
+* cd Diamond-Price-Prediction-Project
 3. Install the required dependencies using pip:
-pip install -r requirements.txt
+* pip install -r requirements.txt
 4. Run the Flask application:
-python application.py
+* python application.py
 5. Open your web browser and go to
-http://127.0.0.1:5004/ - to access the home page
+* http://127.0.0.1:5004/ - to access the home page
 
-http://127.0.0.1:5004/predict - to perform prediction of diamond price on the web application.
+* http://127.0.0.1:5004/predict - to perform prediction of diamond price on the web application.
 
 ## Usage
 Once you have the web application running, you can use it to predict the price of diamond based on the input features. Simply provide the required information, and the application will provide you with the prediction.
